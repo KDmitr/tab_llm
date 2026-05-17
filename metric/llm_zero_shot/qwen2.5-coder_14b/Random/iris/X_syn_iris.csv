@@ -1,0 +1,16 @@
+Unnamed: 0,mean
+stats.jensenshannon_dist.marginal,0.0292585242053395
+stats.inv_kl_divergence.marginal,0.678669873013901
+stats.ks_test.marginal,0.7596350598337445
+stats.max_mean_discrepancy.joint,0.1516997670768952
+stats.wasserstein_dist.joint,0.1268260578314463
+performance.linear_model.syn_id,0.6828124999999999
+performance.linear_model.syn_ood,0.6833333333333332
+performance.xgb.syn_id,0.5986689814814814
+performance.xgb.syn_ood,0.6064814814814815
+detection.detection_xgb.mean,0.7609049994266712
+prdc_precision,0.8080333333333334
+prdc_recall,0.9111
+nn_identifiability,0.4631333333333333
+coverage_score,0.975
+mmd,0.0392
